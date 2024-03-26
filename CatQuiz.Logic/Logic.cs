@@ -38,10 +38,7 @@ public class Logic : ILogic
             QuestionId = question.Id
             
         };
-        
         var extraBreeds = await _serviceConnector.GetCatBreeds(RandomPageNumber());
-
-        
         var questionResponse = new QuestionResponse()
         {
             Cat = cat,

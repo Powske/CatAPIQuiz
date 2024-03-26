@@ -1,6 +1,6 @@
 ﻿using CatQuiz.Domain;
 using Newtonsoft.Json;
-using JsonConverter = System.Text.Json.Serialization.JsonConverter;
+
 
 namespace CatQuiz.Persistence.ServiceConnector;
 /// <summary>

@@ -1,5 +1,4 @@
-﻿using CatQuiz.Domain;
-
+﻿
 namespace CatQuiz.Persistence.Persistence;
 
 public class CatQuizRepository : ICatQuizRepository
