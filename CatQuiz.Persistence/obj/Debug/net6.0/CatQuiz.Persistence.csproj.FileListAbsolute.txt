@@ -1,0 +1,15 @@
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\bin\Debug\net6.0\CatQuiz.Persistence.deps.json
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\bin\Debug\net6.0\CatQuiz.Persistence.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\bin\Debug\net6.0\CatQuiz.Persistence.pdb
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\bin\Debug\net6.0\CatQuiz.Domain.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\bin\Debug\net6.0\CatQuiz.Domain.pdb
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.csproj.AssemblyReference.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.AssemblyInfoInputs.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.AssemblyInfo.cs
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.csproj.CopyComplete
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\refint\CatQuiz.Persistence.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\CatQuiz.Persistence.pdb
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Persistence\obj\Debug\net6.0\ref\CatQuiz.Persistence.dll

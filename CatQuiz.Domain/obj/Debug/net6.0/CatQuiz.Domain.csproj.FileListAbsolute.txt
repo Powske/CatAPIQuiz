@@ -1,0 +1,12 @@
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\bin\Debug\net6.0\CatQuiz.Domain.deps.json
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\bin\Debug\net6.0\CatQuiz.Domain.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\bin\Debug\net6.0\CatQuiz.Domain.pdb
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.csproj.AssemblyReference.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.AssemblyInfoInputs.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.AssemblyInfo.cs
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\refint\CatQuiz.Domain.dll
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\CatQuiz.Domain.pdb
+C:\Users\powellke\Test\CatQuiz\CatQuiz.Domain\obj\Debug\net6.0\ref\CatQuiz.Domain.dll
